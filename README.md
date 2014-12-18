@@ -1,4 +1,4 @@
 linuxmon
 ========
 
-Linux monitor (files, processes, network connections...) in C++
+Linux system monitor (files, processes, network connections...) in C++
